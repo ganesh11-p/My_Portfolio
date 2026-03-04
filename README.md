@@ -33,7 +33,7 @@ This is my personal **developer portfolio website** built to showcase my skills,
 
 You can view the live website here:
 
-👉 https://myportfoli01.ccbp.tech/
+👉 [https://myportfoli01.ccbp.tech/](https://my-portfolio-six-gamma-72.vercel.app/)
 
 ## 👨‍💻 Author
 
